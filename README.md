@@ -32,9 +32,6 @@ Le bot peut être installé et exécuté sur :
 CopyTrade/
 ├── bot.py
 ├── requirements.txt
-├── .env
-├── .env.example
-├── .gitignore
 └── README.md
 ```
 
